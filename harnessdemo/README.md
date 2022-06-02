@@ -1,2 +1,0 @@
-# harnessdemo
- harness demo application
